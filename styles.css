@@ -33,7 +33,7 @@ body {
 .img-container {
     min-width: 375px;
     max-width: 375px;
-    padding: 2.5% 2.5%;
+    
     position: relative;
     display: flex;
     align-items: center;
@@ -46,7 +46,8 @@ body {
 img {
     align-items: center;
     width: 100%;
-    border-radius: 10px;
+    border-radius: 30px;
+    padding:5.5%;
 }
 
 .headline-class {
