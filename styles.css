@@ -47,7 +47,12 @@ img {
     align-items: center;
     width: 100%;
     border-radius: 30px;
-    padding:5.5%;
+    padding: 5.5%;
+    
+}
+
+h1 {
+    font-size: larger;
 }
 
 .headline-class {
